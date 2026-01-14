@@ -1,2 +1,2 @@
 # HPCL
-IIT Madras and HPCL collab . 
+Project completed for HPCL . Company wanted such ML models which can accurately predict mechanical properties of any petroleum batch from the information of batches different materials compostion. I have succesfully build such Ensemble ML models , Predictions are cross verified by the experiments. HPCL is now encorporating such ML tools for the guided experiments for the desirable property batches .
